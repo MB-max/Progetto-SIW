@@ -1,0 +1,25 @@
+MARIA ANTONIETTA BONANNI 519794
+MICHELE BUNGARO 521056
+
+Casi d'uso: User
+• Aggiornare Nome
+• Aggiornare Cognome
+
+
+Casi d'uso: Project
+• Visualizzare i progetti condivisi con me
+• Aggiornare i dati di un mio progetto
+• Aggiornare Nome del progetto
+• Aggiornare Descrizione del progetto
+• Cancellare un mio progetto
+• Condividere un mio progetto con un altro utente
+• Aggiungere un tag ad un mio progetto (estensione)
+
+Casi d'uso: Task
+• Aggiungere un nuovo Task a un mio progetto
+• Aggiornare un Task di un mio progetto
+• Cancellare un Task da un mio progetto
+• Assegnare un Task di un mio progetto ad un utente che ha visibilità sul mio progetto
+
+Implementazione aggiuntive
+• Admin: lista Users
